@@ -3,10 +3,10 @@
 
 ## Current directory structure
 * bishop/exercises 
-    LaTex code for solutions to exercises
-* bishop/code     
-    python code for models / problems presented
+** LaTex code for solutions to exercises
+* bishop/code    
+** python code for models / problems presented
 * python\_setup   
-    basics for setting up env and tools for python development
+** basics for setting up env and tools for python development
 
  
